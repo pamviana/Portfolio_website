@@ -1,0 +1,124 @@
+body {
+    background: #faf9f7;
+}
+
+header{
+    padding: 1.4rem 4rem;
+    position: relative;
+    max-width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#web-header {
+   position: relative;        
+}
+
+#logo {
+    
+    width: 150px;
+    left: 0px;
+    top: 12px;  
+}
+
+.menu-nav {
+    position: absolute;
+    top: 53px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    
+}
+
+nav a {
+    text-decoration: none;    
+    color: #5d4125;
+}
+
+
+.menu-item {
+    font-family: 'Graphik web',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2.1rem;
+    margin-right: 4rem;   
+    
+}
+
+.container {
+    margin-bottom: 20rem;
+    background: #faf9f7; 
+    margin: 0;
+    padding: 6rem 4rem;
+    border: 0;
+}
+
+h1 {
+    color: #3b625f;
+    font-size: 4.5rem;
+}
+
+.details-intro-text {
+    font-size: 2rem;
+    color: #f0535d;
+}
+
+.about-section {    
+    margin-bottom: 20rem;
+    background: #f6e6e0; 
+    margin: 0;
+    padding: 4rem;
+    border: 0;
+}
+
+h2 {
+    color: #f0535d;
+    font-size: 1rem;
+    font-family: "Graphik web", sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    font-weight: bold;
+}
+
+.profile-text {
+    color: #000000;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    width: 55%;
+}
+
+.profile {
+    padding: 2rem 4rem;
+}
+
+#profile-picture {
+    width: 20%;
+}
+
+p {
+    color: #3b625f;
+    font-family: 'Portrait web',Georgia,sans-serif;
+}
+
+
+.projects-section {
+    min-height: 95vh;
+    margin-bottom: 20rem;
+    background: #faf9f7; 
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.contact-section {
+    min-height: 95vh;
+    margin-bottom: 20rem;
+    background: #3b625f; 
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
